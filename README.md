@@ -29,7 +29,6 @@ I picked up my first programming language in 10th grade with the help of a Harva
 
 - ☁️ I've keen interest in all things related **Computer Science**
 
-- 📫 Feel free to reach me at **massoud.r@outlook.com**
 <!--Intro end-->
 
 
