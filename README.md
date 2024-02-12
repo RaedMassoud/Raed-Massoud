@@ -1,9 +1,12 @@
 <!-- Opening quote -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"><i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ~ Martin Fowler</i></h2></summary>
+    <summary><h3 style="display: inline-block"><i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i></h2>
+    <p align="right">~ Martin Fowler</p></summary>
   </ul>
 </div>
+
+
 
 
 <!--horizontal divider(gradiant)-->
