@@ -16,8 +16,9 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="justify">
-Hi, I’m RaedMassoud. An aspiring computer scientist.
-I picked up my first programming language in 10th grade with the help of a Harvard University online course. Ever since I have been addicted to exploring and learning the magic we can create in this field of study. I believe that the power of programming lies in its ability to create solutions that can solve real-world problems. Since my first introduction to coding, I have worked on several projects that have challenged me to think outside the box and find innovative solutions to complex problems. I am excited to continue exploring this field and see where my passion for programming takes me in the future.
+Hi, I’m Raed Massoud, and I’m on a journey to becoming a versatile tech enthusiast. My coding adventure began in 10th grade when I dived into my first programming language through an online course offered by Harvard University. That experience sparked a passion that continues to drive me today. I’m captivated by how programming enables us to solve real-world challenges and create impactful solutions.
+
+Since then, I’ve expanded my interests beyond coding to include public speaking, machine learning, and entrepreneurship. Each of these areas has helped me grow both personally and professionally, allowing me to tackle problems from new perspectives. I’m excited for the future and eager to see how my skills and passions evolve as I continue to explore these fields.
   </ul>
 </div>
 <br>
@@ -47,7 +48,7 @@ I picked up my first programming language in 10th grade with the help of a Harva
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raedmassou&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raedmassoud&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
