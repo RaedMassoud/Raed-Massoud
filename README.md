@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="justify">
-Hi, I’m Raed Massoud, and I’m on a journey to becoming a versatile tech enthusiast. My coding adventure began in 10th grade when I dived into my first programming language through an online course offered by Harvard University. That experience sparked a passion that continues to drive me today. I’m captivated by how programming enables us to solve real-world challenges and create impactful solutions.  
+Hi, I’m Raed Massoud, and I’m on a journey to becoming a versatile tech enthusiast. My coding adventure began in 10th grade when I dived into my first programming language through an online course offered by Harvard University. That experience sparked a passion that continues to drive me today. I’m captivated by how programming enables us to solve real-world challenges and create impactful solutions. <br><br> 
 
 Since then, I’ve expanded my interests beyond coding to include public speaking, machine learning, and entrepreneurship. Each of these areas has helped me grow both personally and professionally, allowing me to tackle problems from new perspectives. I’m excited for the future and eager to see how my skills and passions evolve as I continue to explore these fields.
   </ul>
