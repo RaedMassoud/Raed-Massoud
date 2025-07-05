@@ -16,9 +16,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="justify">
-Hi, I’m Raed Massoud, and I’m on a journey to becoming a versatile tech enthusiast. My coding adventure began in 10th grade when I dived into my first programming language through an online course offered by Harvard University. That experience sparked a passion that continues to drive me today. I’m captivated by how programming enables us to solve real-world challenges and create impactful solutions. <br><br> 
+Hi, I’m Raed Massoud. A Computer Science graduate with hands-on experience in Android development, e-commerce platforms, and software projects built using Java, Kotlin, Spring Boot, and Python.
 
-Since then, I’ve expanded my interests beyond coding to include public speaking, and entrepreneurship. Each of these areas has helped me grow both personally and professionally, allowing me to tackle problems from new perspectives. I’m excited for the future and eager to see how my skills and passions evolve as I continue to explore these fields.
+I started programming in 10th grade through a Harvard online course, and that early exposure grew into a passion for building real-world solutions, from launching a Shopify-based online business to developing mobile apps and backend systems.
+
+In addition to tech, I’ve developed a strong interest in public speaking and communication. I enjoy explaining ideas clearly, whether I’m debugging code, collaborating in a sprint, or sharing insights with an audience.
+
+I’m currently looking for opportunities where I can grow as a developer, contribute to meaningful projects, and continue learning through both practice and collaboration.
   </ul>
 </div>
 <br>
